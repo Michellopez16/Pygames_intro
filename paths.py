@@ -17,3 +17,4 @@ font_pixel = os.path.join(path_font, "Pixeltype.ttf")
 
 ### Path player
 path_Player_walk1 = os.path.join(path_Player,"player_walk_1.png")
+path_Player_stand = os.path.join(path_Player,"player_stand.png")
